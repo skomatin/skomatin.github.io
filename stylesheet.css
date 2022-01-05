@@ -100,7 +100,15 @@ orgtitle {
   font-weight: 700
 }
 
-projecttitle {
+advisortitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  float: right;
+}
+
+
+positiontitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
 font-weight: 700;
